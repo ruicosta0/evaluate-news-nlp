@@ -24,4 +24,4 @@ The project has been built using:
 
 -Jest testing
 
-
+URL Valid function courtesty of mentor help forum.
