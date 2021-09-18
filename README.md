@@ -9,12 +9,19 @@ This web tool allows the user to enter a url of a news article and for the text 
 The project has been built using:
 
 -Webpack
+
 -Webpack Loaders and Plugins
+
 -Sass, Javascript, html
+
 -Service workers
+
 -An external API
+
 -JSDOM
+
 -nodeJS
+
 -Jest testing
 
 
