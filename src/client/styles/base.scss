@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-image: url('./img/newspaper.JPG');
+    background-size: contain;
+    background-repeat:repeat;
+}
+
+main {
+    flex: 2;
+}
+
+section {
+    max-width: 800px;
+    margin: 50px auto;
+}
+
+form {
+    background-color: lightcyan;
+}
